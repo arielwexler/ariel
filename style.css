@@ -52,7 +52,7 @@ p {
 
 .row p { 
 			padding-inline: 2em;
-			padding-top: .5em;
+			padding-top: 1.15rem;
 			
 
 			    }
@@ -98,7 +98,7 @@ p {
 		font-family: helvetica;
 		text-align: left;
 		color: black;
-		font-size: 0.75em;
+		font-size: 1.15rem;
 		line-height: 1.5;
 
 		} 

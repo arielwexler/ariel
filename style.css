@@ -34,6 +34,8 @@ p {
 #ariel { 
 			padding-left: .5em;
 			padding-right: .5em;
+			width: 240px 
+			height: 160px
 	        
 	
 			
@@ -44,8 +46,7 @@ p {
                 display: flex;
                 font-size: 1.15em
                 font-family: helvetica;
-	 	max-width: 100%;
-		height: auto; 
+	 	 
 
             }
 

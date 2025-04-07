@@ -34,7 +34,9 @@ p {
 #ariel { 
 			padding-left: .5em;
 			padding-right: .5em;
-			width: 300px;
+			max-width: 100%;
+	                height: auto; 
+	
 			
 
 		} 
@@ -72,14 +74,16 @@ p {
 
 #logo { 
 
-	height: 200px;
+	max-width: 100%;
+	height: auto;
 	margin: auto;
  }
 
 
 #burner {
 
-	height: 150px;
+	max-width: 100%;
+	height: auto; 
 	padding-left: .5em;
 	padding-right: .5em;
 	padding-top: 1.5em;

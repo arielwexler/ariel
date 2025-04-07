@@ -34,7 +34,8 @@ p {
 #ariel { 
 			padding-left: .5em;
 			padding-right: .5em;
-	                height: 100px
+	                max-width: 100%;
+			height: auto; 
 	
 			
 
